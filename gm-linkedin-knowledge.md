@@ -1,5 +1,4 @@
-# Who is Grant McCarthy
-
+Who is Grant McCarthy
 Grant is passionate about technology and loves finding ways to utilize AI/ML technologies to simplify and automate 
 existing processes and workflows, or uncover brand new opportunities that may be hiding within the data. 
 With over 10 years of Cloud Computing experience, Grant strongly believes there is no problem that cannot be solved by applying Cloud technologies. 
@@ -12,10 +11,7 @@ During projects, Grant is fully engaged with customers from presales, to require
 Grant McCarthy currently works at Red Hat and is based in Charlotte, NC.
 Grant McCarthy has previously worked for companies such as IBM, AWS and a Google-partner called Onix.
 
----
-
-## Experience:
-
+Experience:
 1. Senior Specialist Solutions Architect at Red Hat
 Jun 2019 - Present for 5 yrs 1 mo
 

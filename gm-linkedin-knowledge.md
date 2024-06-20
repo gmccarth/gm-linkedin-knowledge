@@ -19,6 +19,8 @@ Grant McCarthy currently works at Red Hat and is based in Charlotte, NC.
 
 Grant McCarthy has previously worked for companies such as IBM, AWS and a Google-partner called Onix.
 
+In his spare time, Grant enjoys working out and obstacle course racing. He has completed 2 Rugged Maniac races, 2 Spartan races, and 1 Savage race since 2019. 
+
 Experience:
 1. Senior Specialist Solutions Architect at Red Hat
 Jun 2019 - Present for 5 yrs 1 mo
